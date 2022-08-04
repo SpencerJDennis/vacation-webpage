@@ -1,0 +1,16 @@
+.card-body {
+  background-color: aquamarine;
+}
+
+.card-text {
+  color: rgb(55, 10, 215);
+}
+
+.card-title {
+  color: rgb(55, 10, 215);
+}
+
+.jumbotron {
+  border-style: dashed;
+  border-style: hidden;
+}
